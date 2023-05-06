@@ -5,7 +5,8 @@ To develop a Django application to store and retrieve data from a student databa
 
 ## Entity Relationship Diagram
 
-https://user-images.githubusercontent.com/113497104/236615099-4de261d9-bba1-48f8-bc97-dd076b8fbfc6.png
+![image](https://user-images.githubusercontent.com/121166004/236628802-fe4f760f-6b1b-4cd5-9c47-67d756e69c46.png)
+
 
 
 ## DESIGN STEPS : 
@@ -63,7 +64,8 @@ class studentAdmin(admin.ModelAdmin):
 
 ## OUTPUT :
 
-https://user-images.githubusercontent.com/113497104/236615256-a6d401ff-591e-48de-9f94-a9c526975382.png
+![image](https://user-images.githubusercontent.com/121166004/236628775-06d12b5b-6df7-4c21-8ad2-c8742a7ed78a.png)
+
 
 
 ## RESULT :
