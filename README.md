@@ -64,7 +64,7 @@ class studentAdmin(admin.ModelAdmin):
 
 ## OUTPUT :
 
-![image](![image](https://github.com/VinithaNaidu/ORM/assets/121166004/6e3a1df4-be87-4988-be72-e58a38712895)
+![OUTPUT](![image](https://github.com/VinithaNaidu/ORM/assets/121166004/6e3a1df4-be87-4988-be72-e58a38712895)
 
 ## RESULT :
 The code executed successfully.
